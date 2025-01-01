@@ -10,9 +10,9 @@ I am  Backend Developer with 3+ years of experience in designing and building sc
 
 
 
-### 📬 Connect with Me:
+###  Connect with Me:
 
-<p align="center">
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;" >
   <a href="https://www.linkedin.com/in/abdul-rashid-khan-maitla11" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
@@ -81,21 +81,6 @@ I love working with cutting-edge technologies to create scalable and maintainabl
 
 ---
 
-
-
-### 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=wolftheThunder&theme=dracula&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
----
-
-### 👨‍💻 Let's Build Something Amazing Together!
-
-Feel free to reach out for collaboration or if you want to talk about tech, software development, or anything else! 😄
-
----
 
 [![](https://visitcount.itsvg.in/api?id=wolftheThunder&icon=0&color=0)](https://visitcount.itsvg.in)
 
