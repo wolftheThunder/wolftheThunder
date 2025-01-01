@@ -3,16 +3,18 @@
   <img src="https://github.com/wolftheThunder/wolftheThunder/blob/main/bdcard.png" alt="Abdul Rashid Khan" width="100%" height="250" style="border-radius: 50%; border: 5px solid #4CAF50;" />
 </p>
 
-# Hi 👋, I'm Abdul Rashid Khan
+# HELLO 👋, I'm Abdul Rashid Khan
 
-
-I am  Backend Developer with 3+ years of experience in designing and building scalable web applications. 
+Backend Developer with 3 years of experience in creating and maintaining scalable web applications,
+with a strong focus on Core PHP, Laravel and React. Proficient in Laravel framework, MVC
+architecture, and RESTful APIs to build robust solutions. Experienced in integrating third-party services
+and committed to enhancing web security
 
 
 
 ###  Connect with Me:
 
-<p align="center" style="margin-top: 20px; margin-bottom: 20px;" >
+<p align="center" style="margin-left: 20px; margin-right: 20px;" >
   <a href="https://www.linkedin.com/in/abdul-rashid-khan-maitla11" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
