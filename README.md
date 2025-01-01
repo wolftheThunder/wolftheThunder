@@ -80,7 +80,7 @@ I love working with cutting-edge technologies to create scalable and maintainabl
 
 
 
-### ✨ Fun Quote of the Day:
+### ✨Make your Day:
 
 
 
