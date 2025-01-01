@@ -73,7 +73,7 @@ I love working with cutting-edge technologies to create scalable and maintainabl
 
 ### ✨ Fun Quote of the Day:
 
-> “The best way to predict the future is to invent it.” – Alan Kay
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
