@@ -5,11 +5,7 @@
 
 # HELLO 👋, I'm Abdul Rashid Khan
 
-Backend Developer with 3 years of experience in creating and maintaining scalable web applications,
-with a strong focus on Core PHP, Laravel and React. Proficient in Laravel framework, MVC
-architecture, and RESTful APIs to build robust solutions. Experienced in integrating third-party services
-and committed to enhancing web security
-
+With 3 years of experience in building and maintaining scalable web applications, I specialize in Node.js, Laravel, Core PHP, and React. Skilled in developing robust RESTful APIs, working with MVC architecture, and integrating third-party services. Focused on building secure, high-performance web solutions.
 
 
 ### Connect with Me:
