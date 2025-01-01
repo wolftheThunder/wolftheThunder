@@ -6,9 +6,9 @@
 # HELLO 👋, I'm Abdul Rashid Khan
 
 With 3 years of experience in building and maintaining scalable web applications, I specialize in Node.js, Laravel, Core PHP, and React. Skilled in developing robust RESTful APIs, working with MVC architecture, and integrating third-party services. Focused on building secure, high-performance web solutions.
-
-
 ### Connect with Me:
+
+### Places am mostly active:
 
 <p align="center" style="margin-left: 20px; margin-right: 20px;">
   <a href="https://www.linkedin.com/in/abdul-rashid-khan-maitla11" target="blank" style="margin: 0 15px;">
