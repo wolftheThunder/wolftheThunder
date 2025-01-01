@@ -1,6 +1,6 @@
 <!-- Profile Image -->
 <p align="center">
-  <img src="[https://your-image-url-here.com](https://github.com/wolftheThunder/wolftheThunder/blob/main/bdcard.png)" alt="Abdul Rashid Khan" width="250" height="250" style="border-radius: 50%; border: 5px solid #4CAF50;" />
+  <img src="https://github.com/wolftheThunder/wolftheThunder/blob/main/bdcard.png" alt="Abdul Rashid Khan" width="250" height="250" style="border-radius: 50%; border: 5px solid #4CAF50;" />
 </p>
 
 # Hi 👋, I'm Abdul Rashid Khan
