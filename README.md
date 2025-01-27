@@ -16,7 +16,7 @@ With 3 years of experience in building and maintaining scalable web applications
 [![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/wolftheThunder)
 <!--[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashid.khan.maitla13@gmail.com) -->
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923492777660)
-
+<!--
 ### Places am mostly active:
 
 <p align="center" style="margin-left: 20px; margin-right: 20px;">
@@ -33,7 +33,7 @@ With 3 years of experience in building and maintaining scalable web applications
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
   </a>
 </p>
-
+-->
 ---
 
 ### 💻 My Tech Stack
