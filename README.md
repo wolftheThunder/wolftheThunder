@@ -1,4 +1,4 @@
- Profile Image
+<!-- Profile Image
 <p align="center">
   <img src="https://github.com/wolftheThunder/wolftheThunder/blob/main/bdcard.png" alt="Abdul Rashid Khan" width="100%" height="250" style="border-radius: 50%; border: 5px solid #4CAF50;" />
 </p> -->
