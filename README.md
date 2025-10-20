@@ -5,7 +5,7 @@
 
 # HELLO 👋, I'm Abdul Rashid Khan
 
-With 3 years of experience in building and maintaining scalable web applications, I specialize in Fullstact Developer, Node.js, Laravel, Core PHP, and React. Skilled in developing robust RESTful APIs, working with MVC architecture, and integrating third-party services. Focused on building secure, high-performance web solutions.
+Developer :)
 
 ### Connect with Me:
 ---
