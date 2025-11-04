@@ -28,9 +28,6 @@ API development, and blockchain-powered applications.
 
 
 
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 
 
